@@ -1,0 +1,5 @@
+.env
+data/*.csv
+data/app-state.json.tmp
+node_modules/
+.DS_Store
